@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>❮ ZI ❯ Blog</title>
-        <link>https://z-shell.pages.dev/blog</link>
+        <link>https://zw.digitalclouds.dev/blog</link>
         <description>❮ ZI ❯ Blog</description>
         <lastBuildDate>Thu, 27 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Contributing Guidelines Update]]></title>
-            <link>https://z-shell.pages.dev/blog/contributing-guidlines-update</link>
+            <link>https://zw.digitalclouds.dev/blog/contributing-guidlines-update</link>
             <guid>contributing-guidlines-update</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Contributing is a great way to learn more about social coding on Github, new technologies and and their ecosystems.]]></description>
@@ -35,7 +35,7 @@ Z-shell. Responsibilities for most roles are scoped to these subprojects.</p><ta
         </item>
         <item>
             <title><![CDATA[A Swiss Army Knife for Zsh - Unix shell]]></title>
-            <link>https://z-shell.pages.dev/blog/swiss-army-knife-for-zsh</link>
+            <link>https://zw.digitalclouds.dev/blog/swiss-army-knife-for-zsh</link>
             <guid>swiss-army-knife-for-zsh</guid>
             <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Introduction to fast and feature-rich plugin manager.]]></description>

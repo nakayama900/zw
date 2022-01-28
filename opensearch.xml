@@ -4,8 +4,8 @@
   <ShortName>❮ ZI ❯</ShortName>
   <Description>Search ❮ ZI ❯</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://z-shell.pages.dev/img/favicon.svg</Image>
-  <Url type="text/html" method="get" template="https://z-shell.pages.dev/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://z-shell.pages.dev/opensearch.xml" />
-  <moz:SearchForm>https://z-shell.pages.dev/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://zw.digitalclouds.dev/img/favicon.svg</Image>
+  <Url type="text/html" method="get" template="https://zw.digitalclouds.dev/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://zw.digitalclouds.dev/opensearch.xml" />
+  <moz:SearchForm>https://zw.digitalclouds.dev/</moz:SearchForm>
 </OpenSearchDescription>
